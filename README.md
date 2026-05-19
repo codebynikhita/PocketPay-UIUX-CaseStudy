@@ -1,36 +1,52 @@
-# PocketPay-UIUX-CaseStudy
-Digital payment and expense management application
 # PocketPay – UI/UX Case Study
 
-PocketPay is a digital payment and expense management application designed to provide users with a smooth, secure, and user-friendly financial experience.
+PocketPay is a mobile UI/UX case study project designed in Figma for digital payment and expense management. The project focuses on creating a clean, modern, and user-friendly experience for tracking expenses, managing transactions, and analyzing spending patterns.
 
 ## Project Goal
-To create a modern and intuitive payment application that simplifies digital transactions and expense tracking.
 
-## My Role
-- UI/UX Designer
-- Wireframing
-- Prototyping
-- User Flow Design
-
-## Tools Used
-- Figma
-- Canva
-- Design Systems
+To design an intuitive and visually appealing finance management application that simplifies digital payments and expense tracking for users.
 
 ## Features
-- User Login & Authentication
-- Wallet Dashboard
-- Transaction History
-- Expense Tracking
-- Clean & Responsive Interface
+
+* Splash & Onboarding Screen
+* Dashboard Overview
+* Transaction Management
+* Add Expense Flow
+* Spending Analytics
+* Alerts & Notifications
+* User Profile Section
 
 ## Design Process
-1. User Research
-2. Wireframing
-3. UI Design
-4. Prototyping
-5. Final Screens
+
+* Low-Fidelity Wireframes
+* User Flow Planning
+* High-Fidelity UI Design
+* Interactive Prototyping
+
+## Tools Used
+
+* Figma
+
+## My Role
+
+* UI/UX Designer
+* Wireframing
+* User Flow Design
+* Visual Design
+* Interactive Prototype Creation
+
+## Key Focus Areas
+
+* Clean and minimal interface
+* Easy navigation flow
+* Financial data visualization
+* Consistent design system
+* User-centered experience
 
 ## Figma Prototype
-(https://www.figma.com/proto/70ufMdUsy7hK12SVZEA4nY/GooglePay-Expense-Tracker?node-id=0-1&t=zqQPrZtnWynnOmI0-1)
+
+https://www.figma.com/proto/70ufMdUsy7hK12SVZEA4nY/GooglePay-Expense-Tracker?node-id=0-1&t=zqQPrZtnWynnOmI0-1
+
+## Project Overview
+
+PocketPay demonstrates the complete UI/UX workflow from low-fidelity wireframes to high-fidelity interactive screens. The project was designed to improve usability, accessibility, and user engagement in digital finance management applications.
